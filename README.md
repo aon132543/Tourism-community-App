@@ -26,6 +26,4 @@ Provide instructions on how to use the project. If there are any specific featur
 
 Explain how others can contribute to your project. This could include things like submitting bug reports, suggesting new features, or submitting pull requests.
 
-## License
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
