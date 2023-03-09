@@ -22,6 +22,8 @@ Wongnai allows users to:
 - Recommend images and places.
 - Like and comment on images.
 - Explore popular places and images.
+- Receive nearby recommendations based on user's current location.
+
 
 ## Developers
 
