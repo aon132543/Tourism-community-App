@@ -1,29 +1,38 @@
-# Project Name
+# Wongnai
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Wongnai is a mobile application designed to solve the problem of unattractive travel images on the internet. It was created by Thanapat Nantasiriyothin and Siraphop Noungpok.
 
-## Table of Contents
+## System Requirements
 
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Description
-
-Briefly describe your project and what it does.
+To install and run Wongnai, you must have React Native installed on your system. You can find installation instructions [here](https://reactnative.dev/docs/environment-setup).
 
 ## Installation
 
-Include instructions on how to install and set up the project. If there are any specific requirements, list them here.
+1. Clone the Wongnai repository from Github.
 
-## Usage
+2. Navigate to the project directory and run `npm install` to install the required dependencies.
 
-Provide instructions on how to use the project. If there are any specific features or functionalities that users should be aware of, explain them here.
+3. Run `react-native run-android` or `react-native run-ios` to start the application.
+
+## Features
+
+Wongnai allows users to:
+
+- Recommend images and places.
+- Like and comment on images.
+- Explore popular places and images.
+
+## Developers
+
+Wongnai was created by:
+
+- Thanapat Nantasiriyothin
+- Siraphop Noungpok
 
 ## Contributing
 
-Explain how others can contribute to your project. This could include things like submitting bug reports, suggesting new features, or submitting pull requests.
+If you would like to contribute to Wongnai, please fork the repository and submit a pull request.
 
+## License
 
+Wongnai is open source and released under the [MIT License](LICENSE).
