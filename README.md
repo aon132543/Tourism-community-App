@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Wongtrip
 
-Wongnai is a mobile application designed to solve the problem of unattractive travel images on the internet. It was created by Thanapat Nantasiriyothin and Siraphop Noungpok.
+Wongtrip is a mobile application designed to solve the problem of unattractive travel images on the internet. It was created by Thanapat Nantasiriyothin and Siraphop Noungpok.
 
 ## System Requirements
 
