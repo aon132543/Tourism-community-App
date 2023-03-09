@@ -1,15 +1,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Wongnai
+# Wongtrip
 
 Wongnai is a mobile application designed to solve the problem of unattractive travel images on the internet. It was created by Thanapat Nantasiriyothin and Siraphop Noungpok.
 
 ## System Requirements
 
-To install and run Wongnai, you must have React Native installed on your system. You can find installation instructions [here](https://reactnative.dev/docs/environment-setup).
+To install and run Wongtrip, you must have React Native installed on your system. You can find installation instructions [here](https://reactnative.dev/docs/environment-setup).
 
 ## Installation
 
-1. Clone the Wongnai repository from Github.
+1. Clone the Wongtrip repository from Github.
 
 2. Navigate to the project directory and run `npm install` to install the required dependencies.
 
@@ -17,7 +17,7 @@ To install and run Wongnai, you must have React Native installed on your system.
 
 ## Features
 
-Wongnai allows users to:
+Wongtrip allows users to:
 
 - Recommend images and places.
 - Like and comment on images.
@@ -27,15 +27,15 @@ Wongnai allows users to:
 
 ## Developers
 
-Wongnai was created by:
+Wongtrip was created by:
 
 - Thanapat Nantasiriyothin
 - Siraphop Noungpok
 
 ## Contributing
 
-If you would like to contribute to Wongnai, please fork the repository and submit a pull request.
+If you would like to contribute to Wongtrip, please fork the repository and submit a pull request.
 
 ## License
 
-Wongnai is open source and released under the [MIT License](LICENSE).
+Wongtrip is open source and released under the [MIT License](LICENSE).
